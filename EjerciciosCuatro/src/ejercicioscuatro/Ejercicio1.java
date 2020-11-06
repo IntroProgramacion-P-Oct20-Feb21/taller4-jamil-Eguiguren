@@ -35,8 +35,6 @@ public class Ejercicio1 {
         System.out.println("Ingresar la altura del triangulo");
         altura = entrada.nextDouble();
         
-        System.out.println("Ingresar la base del triangulo");
-        base = entrada.nextDouble();
         
         multiplicacion = base * altura;
         area = multiplicacion / 2;
